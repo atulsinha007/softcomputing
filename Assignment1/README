@@ -1,0 +1,5 @@
+1. Input data for both the python files has been given in an input array.
+2. For ignoring negatives, I've used ReLU function.
+3. Iteratively predicting y for x in range 1200 to 3200/3700.
+3. Run the files as:	python3 1-feature.py 
+						python3 2-features.py
