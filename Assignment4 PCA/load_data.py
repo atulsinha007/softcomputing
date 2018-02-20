@@ -29,6 +29,7 @@ def create():
 
 
 def read_data(fileList, dir_name):
+	
 	x = []
 	y = []
 	for i, file in enumerate(fileList):
